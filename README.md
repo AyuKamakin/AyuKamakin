@@ -13,7 +13,6 @@ In this profile, you can find examples of my projects and lab works.
 * 🎯 **Image Classification** (ResNet, VGG, MobileNet, EfficientNet, DenseNet, Inception, AlexNet)
 * 📊 **Machine Learning** (scikit-learn, XGBoost, LightGBM, CatBoost)
 * 🏷️ **Classifiers & Predictive Models** (Logistic Regression, KNN, Decision Trees, Ensemble Methods)
-* 📈 **Data Analysis & Visualization** (Pandas, NumPy, Matplotlib, Seaborn)
 * 🔍 **Image & Video Processing** (augmentation, filtering, enhancement, optical flow)
 
 ---
@@ -24,7 +23,8 @@ In this profile, you can find examples of my projects and lab works.
 - **Project Seminar: Python in Data Science**  
 - **Project Seminar: Fundamentals of Manufacturing Technology and Machine Learning**  
 - **Mathematical Analysis**  
-- **Discrete Mathematics**  
+- **Discrete Mathematics**
+- **Statistics**
 - **Object-Oriented Programming**  
 - **Algorithms and Programming**  
 - **Computer Graphics**  
