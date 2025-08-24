@@ -18,6 +18,19 @@ In this profile, you can find examples of my projects and lab works.
 
 ---
 
+## 🎓 Completed Courses
+- **Intelligent Data Processing**  
+- **Artificial Intelligence Systems**  
+- **Project Seminar: Python in Data Science**  
+- **Project Seminar: Fundamentals of Manufacturing Technology and Machine Learning**  
+- **Mathematical Analysis**  
+- **Discrete Mathematics**  
+- **Object-Oriented Programming**  
+- **Algorithms and Programming**  
+- **Computer Graphics**  
+- **Independent Exam in Data Analysis, Artificial Intelligence, and Generative Models** : passed with distinction
+---
+
 ## 📂 Repository Navigation
 
 ### 🤖 Machine Learning and Computer Vision
@@ -54,7 +67,4 @@ In this profile, you can find examples of my projects and lab works.
 ---
 
 ## 📌 Contact
-- 📧 Email: your_email@example.com  
----
-
-✨ Thanks for visiting my profile! 
+- 📧 Telegram: ayukamakin@gmail.com
