@@ -6,8 +6,15 @@ I graduated from the **National Research University Higher School of Economics (
 In this profile, you can find examples of my projects and lab works.  
 
 ### 🔬 Main Interests
-- 🤖 **Deep Learning** and **Machine Learning** (PyTorch, TensorFlow)  
-- 🖼️ **Computer Vision** (OpenCV)  
+
+* 🤖 **Deep Learning** (PyTorch, TensorFlow, Keras, Hugging Face Transformers)
+* 🎯 **Object Detection & Recognition** (YOLO, RF-DETR)
+* 🖼️ **Computer Vision** (OpenCV, image classification, object detection, segmentation, feature matching)
+* 🎯 **Image Classification** (ResNet, VGG, MobileNet, EfficientNet, DenseNet, Inception, AlexNet)
+* 📊 **Machine Learning** (scikit-learn, XGBoost, LightGBM, CatBoost)
+* 🏷️ **Classifiers & Predictive Models** (Logistic Regression, KNN, Decision Trees, Ensemble Methods)
+* 📈 **Data Analysis & Visualization** (Pandas, NumPy, Matplotlib, Seaborn)
+* 🔍 **Image & Video Processing** (augmentation, filtering, enhancement, optical flow)
 
 ---
 
@@ -21,7 +28,7 @@ In this profile, you can find examples of my projects and lab works.
 - 🔑 [**SIFT_vs_ORB_vs_FAST_and_ORB**](https://github.com/AyuKamakin/SIFT_vs_ORB_vs_FAST_and_ORB) — Comparison of keypoint detection and matching algorithms (SIFT, ORB, FAST+ORB) with BFMatcher and RANSAC.   
 - 📚 [**intelligent_data_processing_homework_1**](https://github.com/AyuKamakin/intelligent_data_processing_homework_1) — Training **ResNet50** on **CIFAR-100** via PyTorch.  
 - 🔧 [**MobileNet_on_RaspberryPi**](https://github.com/AyuKamakin/MobileNet_on_RaspberryPi) — Implementation of MobileNet and OpenCV exercise in facial detection on **Raspberry Pi**.
-- 
+
 ### 🎥 Video Processing and Scripts
 - 🔄 [**Video_Anti_Rotator**](https://github.com/AyuKamakin/Video_Anti_Rotator) — Removes any camera rotation around its axis in videos with a static shooting point (Python, OpenCV).
 - 🔗 [**Video Accelerator**](https://github.com/AyuKamakin/Video_accelerator) — Video acceleration project using Python and OpenCV.
@@ -43,15 +50,11 @@ In this profile, you can find examples of my projects and lab works.
 ---
 
 ## 🛠️ Technologies & Frameworks
-- **Python**, **PyTorch**, **TensorFlow**, **OpenCV**, **Aiogram**  
-- **C++**, **Verilog HDL**, **MIPS Assembly**  
-
+- **Python**, **PyTorch**, **Keras**, **Ultralytics**, **Numpy**, **Pandas**, **Scikit-learn**, **TensorFlow**, **OpenCV**, **Aiogram**  
 ---
 
 ## 📌 Contact
 - 📧 Email: your_email@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/your_username)  
-
 ---
 
-✨ Thanks for visiting my profile!  
+✨ Thanks for visiting my profile! 
