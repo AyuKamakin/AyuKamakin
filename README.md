@@ -7,13 +7,12 @@ In this profile, you can find examples of my projects and lab works.
 
 ### Main Interests
 
-* **Deep Learning** (PyTorch, TensorFlow, Keras, Hugging Face Transformers)
 * **Object Detection & Recognition** (YOLO, RF-DETR)
 * **Computer Vision** (OpenCV, image classification, object detection, segmentation, feature matching)
-* **Image Classification** (ResNet, VGG, MobileNet, EfficientNet, DenseNet, Inception, AlexNet)
-* **Machine Learning** (scikit-learn, XGBoost, LightGBM, CatBoost)
-* **Classifiers & Predictive Models** (Logistic Regression, KNN, Decision Trees, Ensemble Methods)
-* **Image & Video Processing** (augmentation, filtering, enhancement, optical flow)
+* **CV models inference optimization** - multiprocessing, openVINO, threadPoolExecutor
+* **Image enhancement** - color correction, sensor calibration 
+* **Machine Learning** (scikit-learn, EDA-analysis and Feature engineering)
+* **Classifiers & Predictive Models** (Logistic Regression, Ensemble Methods)
 
 ---
 
