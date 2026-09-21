@@ -1,22 +1,31 @@
-# Hi! I'm a HSE Graduate  
+# I am Kamakin Ayu
 
-I graduated from the **National Research University Higher School of Economics (HSE)** with a degree in  
-**Computer Science and Engineering**.  
+Currently studying on **Big data analytics** master degree program within **National Research University Higher School of Economics (HSE)**. 
+Got my bachelor in **National Research University Higher School of Economics (HSE)** with a degree in  
+**Computer Science and Engineering**.
+
+
 
 In this profile, you can find examples of my projects and lab works.  
 
 ### Main Interests
 
 * **Object Detection & Recognition** (YOLO, RF-DETR)
-* **Computer Vision** (OpenCV, image classification, object detection, segmentation, feature matching)
+* **Computer Vision** (OpenCV, image classification, object detection, segmentation)
 * **CV models inference optimization** - multiprocessing, openVINO, threadPoolExecutor
-* **Image enhancement** - color correction, sensor calibration 
-* **Machine Learning** (scikit-learn, EDA-analysis and Feature engineering)
-* **Classifiers & Predictive Models** (Logistic Regression, Ensemble Methods)
+* **Image enhancement** - color correction, sensor calibration
+* **Bayer-mosaic research** - demosaicing & pansharpening methods, color information restoration, etc.
+* **Analytics** - A/B testing, EDA-analysis, ad-hoc
+* **Machine Learning** - Feature-engineering, regression models, boosters
 
 ---
 
 ## Completed Courses
+- **Data visualisation**
+- **SQL**
+- **A/B testing: introduction**
+- **A/B testing: deep dive**
+- **Product development & analytics**
 - **Intelligent Data Processing**  
 - **Artificial Intelligence Systems**  
 - **Python in Data Science**  
