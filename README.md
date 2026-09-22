@@ -12,7 +12,7 @@ In this profile, you can find examples of my projects and lab works.
 
 * **Object Detection & Recognition** (YOLO, RF-DETR)
 * **Computer Vision** (OpenCV, image classification, object detection, segmentation)
-* **CV models inference optimization** - multiprocessing, openVINO, threadPoolExecutor
+* **CV models inference optimization** - multiprocessing, threadPoolExecutor
 * **Image enhancement** - color correction, sensor calibration
 * **Bayer-mosaic research** - demosaicing & pansharpening methods, color information restoration, etc.
 * **Analytics** - A/B testing, EDA-analysis, ad-hoc
